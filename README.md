@@ -23,11 +23,13 @@ Welcome to MyStoryApp! This is my third Android application project, developed t
 - **Favorite Stories**: Mark and manage your favorite stories.
 
 ## Screenshots
-<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/b6aee011-37f7-4bdb-b548-69f7bb346f55" alt="splashscreen" />
-<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/a1400042-22a2-46ee-b7b9-80b5af1d2b73" alt="home" />
-<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/1dab55b2-39f3-403d-bab1-bd472a8466f2" alt="detail" />
-<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/21c8e6eb-e584-4a26-9847-137a0384c2f7" alt="favorite" />
-<img height="400px" src="https://github.com/raafihilmi/MyGithubUsers/assets/69000583/e55f4b6c-3dbc-469c-a4df-fd1d616a98297" alt="darkmode" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/6afa1fa0-0cc0-477c-a838-95dd2064cea8" alt="LandingPage" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/d960464c-f7fa-483c-851a-08251d9d7992" alt="Register" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/31aebc2d-7677-4502-8e35-9a428d7a9494" alt="Login" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/d2adc0ec-3a95-47cd-a99f-d243078fbb78" alt="Home" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/e455a35f-05ec-4444-b7ea-358dc4cb97c0" alt="AddStory" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/814aba82-3066-48ac-89a2-df1d5d305aad" alt="AddStorySuccess" />
+<img height="400px" src="https://github.com/raafihilmi/MyStoryApp/assets/69000583/87eb19a4-063b-487f-8bbb-5e8f415ef647" alt="MapsLocationStory" />
 
 ## Installation
 
@@ -82,7 +84,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/raafihilmi/M
 
 ## Contact
 
-Raafi Hilmi - [Your Email] - [Your LinkedIn or other contact]
+Raafi Hilmi - [Email](mailto:raafihilmi90@gmail.com) - [LinkedIn](https://www.linkedin.com/in/raafi-hilmi)
 
 Project Link: [https://github.com/raafihilmi/MyStoryApp](https://github.com/raafihilmi/MyStoryApp)
 
