@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="logout">Keluar</string>
+    <string name="title_welcome_page">Selamat datang di MyStoryApp!</string>
+    <string name="message_welcome_page">Berbagi cerita seru dan foto favoritmu dengan teman-temanmu!</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Daftar</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="imageDescription">logo mystoryapp</string>
+    <string name="hint_name">Masukan Nama</string>
+    <string name="hint_email">Masukkan Email</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="message_login_page">Jelajahi kisah seru dari teman-temanmu dengan aplikasi cerita kami!</string>
+    <string name="title_login_page">Masuk dan Bagikan Kisahmu</string>
+    <string name="logo">logo mystoryapp</string>
+    <string name="title">Title</string>
+    <string name="story_description">deskripsi tentang cerita ini</string>
+    <string name="img_story">gambar mengenai cerita</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="img_story_desc">foto story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add_desc_story">Tulis deskripsi storymu</string>
+    <string name="add_story_btn">tambahkan cerita</string>
+    <string name="img_add_story">hasil gambar dari kamera maupun gallery</string>
+    <string name="content_desc_logoout">Keluar dari story app</string>
+    <string name="content_welcome">Selamat datang di MyStoryApp</string>
+    <string name="empty_img_warning">Masukkan berkas gambar terlebih dahulu ya!</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Coba lagi</string>
+    <string name="use_location">Use Location</string>
+</resources>
